@@ -2,6 +2,8 @@
 A Fallout 4 modification by [NovaFinch](https://www.nexusmods.com/users/38614105)
 This file should help authors get started with developing for Misriah Armory.
 
+Built for `v2.2.0 Beta`
+
 ### WIP
 * [Misriah Armory - WIP 1](https://www.nexusmods.com/fallout4/images/98689)
 * [Misriah Armory - WIP 2](https://www.nexusmods.com/fallout4/images/104225)
